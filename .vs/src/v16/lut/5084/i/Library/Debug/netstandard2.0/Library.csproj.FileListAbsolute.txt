@@ -1,0 +1,6 @@
+C:\Users\HMugaisi\source\repos\employees-hierarchy\.vs\src\v16\lut\0\b\Library\Debug\netstandard2.0\Library.deps.json
+C:\Users\HMugaisi\source\repos\employees-hierarchy\.vs\src\v16\lut\0\b\Library\Debug\netstandard2.0\Library.dll
+C:\Users\HMugaisi\source\repos\employees-hierarchy\.vs\src\v16\lut\0\i\Library\Debug\netstandard2.0\Library.AssemblyInfoInputs.cache
+C:\Users\HMugaisi\source\repos\employees-hierarchy\.vs\src\v16\lut\0\i\Library\Debug\netstandard2.0\Library.AssemblyInfo.cs
+C:\Users\HMugaisi\source\repos\employees-hierarchy\.vs\src\v16\lut\0\i\Library\Debug\netstandard2.0\Library.csproj.CopyComplete
+C:\Users\HMugaisi\source\repos\employees-hierarchy\.vs\src\v16\lut\0\i\Library\Debug\netstandard2.0\Library.dll
